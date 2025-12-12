@@ -1,0 +1,10 @@
+Tracing NTM: a plus on input 'aaaaa'
+Accept state found at depth 6 with config ['aaaa', 'q3', 'a_', 5, 1]
+Trace Path to Acceptance:
+Depth 0: [, q1, aaaaa]
+Depth 1: [a, q1, aaaa]
+Depth 2: [aa, q1, aaa]
+Depth 3: [aaa, q1, aa]
+Depth 4: [aaaa, q1, a]
+Depth 5: [aaaaa, q2, ]
+Depth 6: [aaaa, q3, a_]
